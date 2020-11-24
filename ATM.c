@@ -87,8 +87,7 @@ int main(void)
 					}
 					else if (numbers == 5)
 					{
-						MacWork = 0;
-						i = 5;
+						return 0;
 					}
 					else
 					{
